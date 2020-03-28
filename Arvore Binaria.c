@@ -1,4 +1,3 @@
-/*Dupla: Vitor Gomes Rocha | José Carlos Bastos*/
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
